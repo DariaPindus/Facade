@@ -6,5 +6,5 @@ import com.daria.uni.patterns.facade.classes.Factory;
 import com.daria.uni.patterns.facade.classes.Tailor;
 
 public class DressCreationFacade {
-    
+
 }
